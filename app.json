@@ -1,7 +1,8 @@
 {
     "name": "بوت ميوزك مجاني",
-    "description": "سورس ميوزك بدثون",
-    "logo": "https://telegra.ph/file/95bc0cd9d859ddc13d28a.jpg",
+    "description": "〔ShArK Music | سورس ميوزك إصدار 2.4〕
+〔Dev : ToP〕",
+    "logo": "https://telegra.ph/file/a5077450218a99f2264d7.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -43,7 +44,7 @@
       },
       "SUPPORT_CHAT": {
         "description": "ضـع رابـط جـروب الـدعـم",
-        "value": "https://t.me/BDthon",
+        "value": "https://t.me/INNV8",
         "required": false
       }
     },
