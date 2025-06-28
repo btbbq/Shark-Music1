@@ -1,7 +1,7 @@
 {
-    "name": "بوت ميوزك مجاني",
-    "description": "Shark",
-    "logo": "https://telegra.ph/file/a5077450218a99f2264d7.jpg",
+    "name": "بوت ميوزك راكان",
+    "description": "Rakan",
+    "logo": "https://imgur.com/a/uMcbXPy",
     "keywords": [
     "python3",
     "telegram",
@@ -42,8 +42,8 @@
         "required": true
       },
       "SUPPORT_CHAT": {
-        "description": "ضـع رابـط جـروب الـدعـم",
-        "value": "https://t.me/INNV8",
+        "description": "ضـع رابـط قـناه الـدعـم",
+        "value": "https://t.me/+fD9UDpzeWt9lMjU6",
         "required": false
       }
     },
